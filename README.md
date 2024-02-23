@@ -1,1 +1,1 @@
-# Mini-ML-projects
+# Mini projects
